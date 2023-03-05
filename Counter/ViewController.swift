@@ -18,4 +18,3 @@ class ViewController: UIViewController {
         znachOchka.text = "Значение счётчика: \(count)"
     }
 }
-
